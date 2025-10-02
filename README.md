@@ -18,6 +18,8 @@ It demonstrates:
   - Registers two different users successfully.
   - Attempts to register a duplicate user and shows proper handling.
 
+### ⚠️ Note: The app runs on port 9090 instead of 8080 due to a port conflict.
+
 --- 
 
 ## Technologies Used
