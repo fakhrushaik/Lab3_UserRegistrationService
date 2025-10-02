@@ -9,5 +9,4 @@ class UserRegistrationApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
